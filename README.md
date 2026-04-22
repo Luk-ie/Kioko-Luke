@@ -1,6 +1,6 @@
 ## 👋Hi, I'm Kioko Luke
 
-- 🎓Data Science & Analytics Diploma (Final Semester)
+- 🎓Data Analyist / Data Scientist with Full-Satck Development Skills. 
 - 💡Interested in all things Data Science and Python.
 - 📂I'm currently learning Pyhton, SQL & Power BI.
 - 📩Open to collabrations and internships.
